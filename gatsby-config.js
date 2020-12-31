@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Philip Sotirov`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Philip Sotirov`,
+      summary: `Dreamer, Doer and Achiever`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Philip's digital home`,
+    siteUrl: `https://philipsotirov.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `fipo`,
     },
   },
   plugins: [
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Philip Sotirov Blog`,
+        short_name: `Philip Sotirov`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
